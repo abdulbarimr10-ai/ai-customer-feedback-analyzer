@@ -32,7 +32,7 @@ AI-powered customer feedback sentiment analysis using Make.com and OpenAI (gpt-4
 ## 📸 Screenshots
 
 ### Make.com Scenario
-![Make Scenario](screenshots/make-scenario.png)
+![Make Scenario](./screenshots/make-scenario.png)
 
 
 
